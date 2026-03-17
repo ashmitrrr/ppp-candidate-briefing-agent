@@ -1,3 +1,5 @@
+# to prompt the claude llm
+
 ROLE_SPEC = """
 Role: Head of Distribution / National BDM
 Firm: Mid-tier Australian active asset manager, AUM $5-20B, institutional and wholesale focus
