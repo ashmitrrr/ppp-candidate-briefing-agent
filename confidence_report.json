@@ -1,0 +1,61 @@
+[
+  {
+    "candidate_id": "candidate_1",
+    "full_name": "Andrew Swan",
+    "confidence": {
+      "overall": "low",
+      "unverified_fields": [
+        "full_name",
+        "current_role",
+        "tenure_years",
+        "career_narrative",
+        "experience_tags",
+        "mobility_signal",
+        "role_fit"
+      ]
+    }
+  },
+  {
+    "candidate_id": "candidate_2",
+    "full_name": "Cathy Hales",
+    "confidence": {
+      "overall": "medium",
+      "unverified_fields": [
+        "current_role verification - research shows Mercer CEO role not Perpetual retail sales role as stated"
+      ]
+    }
+  },
+  {
+    "candidate_id": "candidate_3",
+    "full_name": "Jason Ennis",
+    "confidence": {
+      "overall": "low",
+      "unverified_fields": [
+        "tenure_years",
+        "career_narrative",
+        "experience_tags",
+        "mobility_signal"
+      ]
+    }
+  },
+  {
+    "candidate_id": "candidate_4",
+    "full_name": "Deborah Southon",
+    "confidence": {
+      "overall": "low",
+      "unverified_fields": [
+        "all"
+      ]
+    }
+  },
+  {
+    "candidate_id": "candidate_5",
+    "full_name": "Nikki Thomas",
+    "confidence": {
+      "overall": "high",
+      "unverified_fields": [
+        "current_role"
+      ]
+    }
+  }
+]

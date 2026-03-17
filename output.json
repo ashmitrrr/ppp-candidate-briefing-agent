@@ -1,0 +1,146 @@
+{
+  "candidates": [
+    {
+      "candidate_id": "candidate_1",
+      "full_name": "Andrew Swan",
+      "current_role": {
+        "title": "Head of Distribution",
+        "employer": "Pendal Group",
+        "tenure_years": 0
+      },
+      "career_narrative": "Research could not verify an Andrew Swan in a Head of Distribution role at Pendal Group. Pendal's Distribution Director is Anthony Serhan, who joined from Morningstar in October 2018. A separate Andrew Swan exists at Man Group as Head of Asia ex-Japan Equities, but this is a different individual in an investment rather than distribution role. Pendal was acquired by Perpetual in January 2023, and distribution leadership may have changed during integration. Candidate identity requires manual verification before further assessment.",
+      "experience_tags": [
+        "distribution",
+        "funds management"
+      ],
+      "firm_aum_context": "Pendal Group is an Australian multi-boutique asset manager acquired by Perpetual in January 2023. Combined group AUM approximately AUD $200B across equities, fixed income, and alternatives. Formerly known as BT Investment Management.",
+      "mobility_signal": {
+        "score": 3,
+        "rationale": "If the candidate does hold this role, the Perpetual-Pendal integration creates natural uncertainty and potential openness to external opportunities."
+      },
+      "role_fit": {
+        "role": "Head of Distribution / National BDM",
+        "score": 5,
+        "justification": "Cannot reliably assess fit due to inability to verify candidate identity and career history. The stated title of Head of Distribution at a major Australian asset manager would suggest strong alignment if verified, but no public evidence supports this specific individual in this role. Manual verification required."
+      },
+      "outreach_hook": "With Perpetual's integration of Pendal still reshaping distribution teams, I'd welcome a conversation about a Head of Distribution opportunity at a well-capitalised active manager looking to build out their national presence."
+    },
+    {
+      "candidate_id": "candidate_2",
+      "full_name": "Cathy Hales",
+      "current_role": {
+        "title": "CEO, Wealth Pacific",
+        "employer": "Mercer",
+        "tenure_years": 1.5
+      },
+      "career_narrative": "Cathy Hales is currently CEO of Wealth Pacific at Mercer, overseeing approximately $63 billion in assets including the Mercer Super Trust. She previously led Fidante Partners from 2011 to 2018, scaling it to Australia's largest multi-boutique platform and growing AUM from $20B to $60B. Earlier in her career she held senior distribution and product roles at Deutsche Asset Management/RREEF globally, with formative roles at Macquarie, Colonial First State, and BT. She brings deep institutional networks and a proven record of building and scaling distribution platforms at the highest level of Australian funds management.",
+      "experience_tags": [
+        "institutional sales",
+        "wholesale distribution",
+        "platform relationships",
+        "team leadership",
+        "multi-asset",
+        "superannuation",
+        "capital raising",
+        "investor relations",
+        "alternatives"
+      ],
+      "firm_aum_context": "Currently at Mercer, a global investment consulting and administration firm with $300B+ AUM globally across pension funds, sovereign wealth funds, and institutional clients. Previously at Fidante Partners (Challenger subsidiary), a leading multi-boutique platform.",
+      "mobility_signal": {
+        "score": 2,
+        "rationale": "Appointed CEO Wealth Pacific at Mercer in mid-2023. Early in a senior leadership tenure at a global firm, making a near-term move unlikely unless presented with an exceptional opportunity."
+      },
+      "role_fit": {
+        "role": "Head of Distribution / National BDM",
+        "score": 9,
+        "justification": "Exceptional alignment with 20+ years in Australian funds management distribution, a proven record of scaling Fidante from $20B to $60B AUM, and deep institutional and wholesale networks. The only gap is that her current CEO-level role is more senior than the target position, which may make the step less attractive from a career progression standpoint."
+      },
+      "outreach_hook": "Your track record scaling Fidante Partners from $20B to $60B AUM is exactly the profile a mid-tier active manager is looking for as they build out distribution leadership to take them to their next phase of growth."
+    },
+    {
+      "candidate_id": "candidate_3",
+      "full_name": "Jason Ennis",
+      "current_role": {
+        "title": "Director, Institutional Sales",
+        "employer": "Fidelity International",
+        "tenure_years": 2.0
+      },
+      "career_narrative": "Jason Ennis is Director of Institutional Sales at Fidelity International in Australia, a global active asset manager with $380.9B in client assets. Fidelity has recently expanded its Australian distribution team under new Managing Director Simon Glazier. Ennis's director-level role at a tier-one global manager suggests established institutional relationships and a solid track record in Australian funds management distribution, though detailed career history prior to Fidelity could not be verified from public sources.",
+      "experience_tags": [
+        "institutional sales",
+        "wholesale distribution",
+        "superannuation",
+        "multi-asset"
+      ],
+      "firm_aum_context": "Fidelity International is a global active asset manager with $380.9B in client assets across APAC, Europe, and Latin America. Strong and growing Australian institutional presence with recent leadership and team expansion.",
+      "mobility_signal": {
+        "score": 3,
+        "rationale": "Approximately two years into current role at a stable tier-one firm undergoing management changes and team growth. Mixed signals: recent leadership changes could create opportunity or uncertainty."
+      },
+      "role_fit": {
+        "role": "Head of Distribution / National BDM",
+        "score": 6,
+        "justification": "Strong institutional sales background at a tier-one global firm suggests relevant experience and networks. However, moving from a director-level role to Head of Distribution represents a step up that requires validated team management capability. Wholesale and IFA channel experience is unverified, and national coverage scope is unclear from public sources."
+      },
+      "outreach_hook": "With Fidelity's Australian team expanding under new leadership, I'd be interested to hear how you see the institutional landscape evolving and whether a Head of Distribution role at a growing mid-tier active manager might appeal."
+    },
+    {
+      "candidate_id": "candidate_4",
+      "full_name": "Deborah Southon",
+      "current_role": {
+        "title": "Head of Distribution",
+        "employer": "Challenger Limited",
+        "tenure_years": 3.0
+      },
+      "career_narrative": "Deborah Southon is listed as Head of Distribution at Challenger Limited, one of Australia's leading retirement-focused financial services firms. Challenger operates both a Life business (annuities) and a Funds Management business (via Fidante Partners and Challenger Investment Management). Public information on Southon's specific career history is limited, though Bloomberg records indicate prior experience as Executive Director at FSA Group. The Challenger distribution function encompasses both retail and institutional channels across annuities and managed funds.",
+      "experience_tags": [
+        "distribution",
+        "wholesale distribution",
+        "retail distribution",
+        "team leadership",
+        "superannuation",
+        "fixed income",
+        "alternatives"
+      ],
+      "firm_aum_context": "Challenger Limited is an ASX-listed financial services firm focused on retirement income. Funds management AUM approximately $100B via Fidante Partners and Challenger Investment Management, with a focus on annuities, fixed income, and alternatives.",
+      "mobility_signal": {
+        "score": 3,
+        "rationale": "Estimated mid-tenure in role. Challenger has undergone leadership changes including a new CEO in 2022, which could create either stability or restlessness depending on how distribution strategy has shifted."
+      },
+      "role_fit": {
+        "role": "Head of Distribution / National BDM",
+        "score": 7,
+        "justification": "Title and employer suggest strong alignment. Head of Distribution at a major Australian financial services firm implies experience managing national sales teams, institutional and retail channels, and complex product suites. Score tempered by limited verifiable career detail and the fact that Challenger's distribution model (annuities-heavy) may not map directly to an active equities-focused manager."
+      },
+      "outreach_hook": "Your distribution leadership at Challenger gives you a unique perspective across retirement and investment channels that would be highly relevant for a mid-tier active manager looking to deepen their institutional and platform reach."
+    },
+    {
+      "candidate_id": "candidate_5",
+      "full_name": "Nikki Thomas",
+      "current_role": {
+        "title": "Portfolio Manager (recently departed)",
+        "employer": "Magellan Financial Group",
+        "tenure_years": 15.0
+      },
+      "career_narrative": "Nikki Thomas is a highly regarded portfolio manager who departed Magellan in mid-2024 following a distribution team restructure, after 15 years total across two stints. She most recently managed the Magellan High Conviction Strategy and was previously Head of Research. Her career spans investment roles at Magellan, Alphinity, Deutsche Bank, and Bankers Trust, with over 20 years in global equities. She joined Magellan in 2007 when it was a startup and helped build the firm to over $55B AUM. Despite the CSV suggesting a wholesale BDM role, Thomas is fundamentally an investment professional with deep global equities expertise rather than a distribution specialist.",
+      "experience_tags": [
+        "equities",
+        "portfolio management",
+        "investment research",
+        "global markets",
+        "team leadership"
+      ],
+      "firm_aum_context": "Magellan Financial Group is a major Australian asset manager with approximately $39.9B AUM, focused on global equities and infrastructure. Client base is split approximately 58% institutional and 42% retail.",
+      "mobility_signal": {
+        "score": 4,
+        "rationale": "Departed Magellan in mid-2024 following restructure. High availability and likely considering next career move. LinkedIn posts suggest active engagement with the industry."
+      },
+      "role_fit": {
+        "role": "Head of Distribution / National BDM",
+        "score": 3,
+        "justification": "Significant mismatch between Thomas's career focus (investment management, portfolio management, equity research) and the distribution leadership requirements of this role. While her deep product knowledge and industry networks could theoretically support a client-facing distribution role, she lacks direct experience in wholesale/institutional sales, platform relationships, and distribution team management. Her seniority and investment pedigree would likely make her overqualified for BDM work and underqualified for distribution leadership."
+      },
+      "outreach_hook": "Following your departure from Magellan and with your deep investment expertise and industry profile, I'd be interested in exploring whether your next chapter might involve a client-facing leadership role that bridges investment and distribution."
+    }
+  ]
+}
