@@ -4,7 +4,7 @@ An AI agent that turns a CSV of candidate names into structured recruiter briefi
 
 The agent uses Claude's native web search to research each candidate from public sources, then produces a JSON briefing with career narrative, experience tags, firm AUM context, mobility signal, role fit score, and a personalised outreach hook.
 
-🔗 **Live demo:** 
+🔗 **Live demo:** [ppp-candidate-briefing-agent.streamlit.app](https://ppp-candidate-briefing-agent.streamlit.app)
 
 ## Quick Start
 
