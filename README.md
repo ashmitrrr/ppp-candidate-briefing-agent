@@ -1,10 +1,10 @@
 # PPP Candidate Briefing Agent
 
-An AI agent that turns a CSV of candidate names into structured recruiter briefings. Built for [Platinum Pacific Partners](https://www.platinumpacificpartners.com.au/), a specialist executive search firm in Australian funds management.
+An AI agent that turns a CSV of candidate names into structured recruiter briefings. Built for [Platinum Pacific Partners](https://www.platinumpacificpartners.com.au/).
 
 The agent uses Claude's native web search to research each candidate from public sources, then produces a JSON briefing with career narrative, experience tags, firm AUM context, mobility signal, role fit score, and a personalised outreach hook.
 
-🔗 **Live demo:** [your-app.streamlit.app](https://your-app.streamlit.app) ← replace with your Streamlit URL
+🔗 **Live demo:** 
 
 ## Quick Start
 
