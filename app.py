@@ -72,7 +72,7 @@ def render_header():
     try:
         with open("logo.png", "rb") as f:
             logo_b64 = base64.b64encode(f.read()).decode()
-        logo_html = f'<img src="data:image/png;base64,{logo_b64}" style="height:55px;margin-bottom:1rem;opacity:0.9;" />'
+        logo_html = f'<img src="data:image/png;base64,{logo_b64}" style="height:90px;margin-bottom:1rem;opacity:0.9;" />'
     except:
         logo_html = '<div class="ppp-eyebrow">Platinum Pacific Partners</div>'
 
@@ -112,10 +112,7 @@ def render_sidebar():
 3. Click Generate Briefings
 4. Download output.json
 
-**CSV format**
-`full_name, current_employer, current_title, linkedin_url`
-
-**Note:** Each run costs ~$1–4 in API credits.
+made by ashmit
 """)
         return model
 
